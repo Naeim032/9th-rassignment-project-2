@@ -1,0 +1,120 @@
+.father{
+
+  background-color: rgb(251, 255, 0);
+  height: 100px;
+}
+
+.father img{
+
+      margin-left: 60px;
+      margin-top: 20px;
+
+}
+
+
+.line{
+
+   float: right;
+   margin-top: 40px;
+   margin-right: 10px;
+
+}
+
+.line a{
+
+  margin: 40px;
+  text-decoration: none;
+  color: black;
+  
+
+}
+
+.line a:hover{
+
+  background-color: rgb(249, 253, 0);
+  color: rgb(0, 4, 255);
+
+}
+
+.con{
+
+    width: 22%;
+    float: left;
+
+}
+
+#bn button{
+
+           margin-top: 160px;
+           border-radius: 30px;
+           background-color: rgb(248, 94, 94);
+           height: 50px;
+           width: 100px;
+
+}
+
+#bn button:hover{
+
+                background-color: aliceblue;
+
+}
+
+.step0{
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(255, 208, 0);
+
+ 
+
+}
+
+.step0 b{
+
+   font-size: 20px;
+
+}
+
+
+#main{
+
+ height: 50px;
+ width: 60px;
+
+}
+
+#FB{
+
+height: 50px;
+width: 60px;
+background-color: yellow;
+
+}
+
+#TI{
+
+height: 50px;
+width: 60px;
+background-color: yellow;
+
+}
+
+#BR{
+
+height: 50px;
+width: 60px;
+background-color: yellow;
+
+}
+
+#LI{
+
+height: 50px;
+width: 60px;
+background-color: yellow;
+
+}
+
+
+

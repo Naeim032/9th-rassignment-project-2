@@ -1,0 +1,77 @@
+.father{
+
+  background-color: rgb(251, 255, 0);
+  height: 100px;
+}
+
+.father img{
+
+      margin-left: 60px;
+      margin-top: 20px;
+
+}
+
+
+.line{
+
+   float: right;
+   margin-top: 40px;
+   margin-right: 10px;
+
+}
+
+.line a{
+
+  margin: 40px;
+  text-decoration: none;
+  color: black;
+  
+
+}
+
+.line a:hover{
+
+  background-color: rgb(249, 253, 0);
+  color: rgb(0, 4, 255);
+
+}
+
+.fastline h1{
+
+  text-align: center;
+  font-family:'Fredoka', sans-serif;
+  font-size:50px ;
+
+}
+
+.fastline p{
+
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.portheader{
+
+     margin-top: 10%;
+     margin-left: 28%;
+     margin-right: 23%;
+     background-color: yellow;
+     height: 50px;
+
+}
+
+.portheader a{
+
+       margin-left: 30px;
+       text-decoration: none;
+
+}
+
+.alwork{
+
+ margin-left: 70px;
+ padding: 20px;
+ align-items: center;
+
+}
